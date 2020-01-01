@@ -1,0 +1,3 @@
+User-agent: *
+Disallow: 
+Sitemap: https://oussamafe.github.io/sem/sitemap.xml
